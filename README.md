@@ -121,6 +121,9 @@ This project showcases both Data Engineering and BI skills, including:
 ✔ Star Schema Data Modeling
 ✔ Power BI Dashboard Design
 
-📬 Connect With Me
+<img width="1442" height="815" alt="IndiaBoxOffice Report" src="https://github.com/user-attachments/assets/7d3ccda5-8ed3-4682-8a77-35316518315d" />
 
-If you're interested in Data Analytics, Power BI, or Microsoft Fabric solutions, feel free to connect and collaborate.
+
+📬 Connect With Me - If you are interested in Power BI, Data Analytics, or Business Intelligence solutions, feel free to connect. suwarna.w@gmail.com https://www.linkedin.com/in/suwarnamala-wawhal Evaluate sales team productivity
+
+Make data-driven strategic decisions
